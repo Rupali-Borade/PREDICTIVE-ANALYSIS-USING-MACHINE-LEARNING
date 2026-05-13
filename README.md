@@ -24,4 +24,6 @@ The model performance was evaluated using accuracy score and classification repo
 Overall, this project successfully demonstrated the complete workflow of predictive analysis using machine learning, including data preprocessing, feature selection, model training, prediction, and evaluation. The implementation shows how machine learning can be used to analyze historical data and predict future outcomes efficiently.
 
 #OUTPUT
-<img width="1257" height="338" alt="Image" src="https://github.com/user-attachments/assets/a928dc5f-a5c5-4e96-9aad-9cc7734d38a7" />
+<img width="1219" height="307" alt="Image" src="https://github.com/user-attachments/assets/f506d672-7188-458d-be57-c3ec41cbde1e" />
+<img width="965" height="229" alt="Image" src="https://github.com/user-attachments/assets/3479b9c4-b8c8-4b2a-8f5c-7c53405bb33e" />
+<img width="1104" height="270" alt="Image" src="https://github.com/user-attachments/assets/1ee95a83-a336-4b2f-b1d9-d3b4d1dd3109" />
